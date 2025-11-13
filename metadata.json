@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Produção",
+  "description": "Uma aplicação front-end em React para gerenciar máquinas e ordens de serviço, simulando um sistema de intranet industrial com autenticação e CRUD de dados.",
+  "requestFramePermissions": []
+}
